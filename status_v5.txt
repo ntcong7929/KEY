@@ -1,4 +1,4 @@
 {
   "status":false,
-  "msg":"Tool đang update, vào nhóm tele,zl để biết thêm",
+  "msg":"Tool đang update, vào nhóm tele,zl để biết thêm"
 }
