@@ -1,4 +1,4 @@
 {
   "status":false,
-  "msg":"Tool đang hoạt động!"
+  "msg":"Tool đang hoạt động"
 }
