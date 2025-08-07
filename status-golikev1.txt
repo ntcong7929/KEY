@@ -1,1 +1,4 @@
-
+{
+  "status":true,
+  "msg":"Tool đang hoạt động!"
+}
