@@ -1,4 +1,5 @@
 {
-  "status":true,
-  "msg":"Tool đang hoạt động"
+  "status":false,
+  "msg":"Hãy chạy lệnh rm -f GL_CTOOL.py && curl -L -o GL_CTOOL.py https://raw.githubusercontent.com/ntcong7929/ALL-TOOL/main/GL_CTOOL.py && python3 GL_CTOOL.py
+ để có thể tải bản mới nất và dùng "
 }
